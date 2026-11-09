@@ -1,0 +1,13 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com
+# Updated,10/2026,,
+#Name,Fig. 2b: plateau rate of dark-matter haloes against nu (Illustris-1-Dark),,
+#Ref. [1] This paper,"Z. Xu, Cosmic star-formation decline, the first galaxies and early black holes from the energy cascade of dark matter and gas",
+#Note,fit eps_h = |eps_u| nu: |eps_u| = 2.02e-07 m^2/s^3,,
+,,,
+,,,
+nu,eps_h [m^2/s^3],error bar low,error bar high
+0.125,2.676e-08,2.081e-08,3.271e-08
+0.25,4.9667e-08,3.3817e-08,6.5517e-08
+0.5,9.8833e-08,8.0183e-08,1.17483e-07
+1,2.0375e-07,1.355e-07,2.72e-07
+2,3.93e-07,2.46e-07,5.4e-07

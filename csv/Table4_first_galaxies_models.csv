@@ -1,0 +1,14 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com,,,,
+# Updated,10/2026,,,,,,
+#Name,Table 4: explanations of the z > 9 excess,,,,,,
+#Ref. [1] This paper,"Z. Xu, Cosmic star-formation decline, the first galaxies and early black holes from the energy cascade of dark matter and gas",,,,,
+,,,,,,,
+,,,,,,,
+model,k,chi2_J,chi2_LF,dAIC,R_br,tau_e,parameters
+const,0,98.8685342,107.400623,172.788594,44.9423554,0.0385415775,
+bursty,1,28.1738943,71.7334055,68.4267366,24.4357975,0.0392940469,0.40155
+ffb02,0,76.0593857,233.014773,275.593596,2.29451564,0.0396286324,
+ffb,1,18.254754,55.3610044,42.1351953,9.05798619,0.0388435326,0.0786668
+onset,3,2.34191028,25.1386528,0,4.68110816,0.0401498441,4.37186 1.99175 5.98949
+gate_mhs,4,2.34190421,25.1386589,2,4.68111249,0.0401498449,4.37186 1.99174 5.98948 1.47974e-06
+gate_M,4,2.34191021,25.1386529,2,4.68110802,0.0401498432,4.37186 1.99175 5.98949 2.42942e-06

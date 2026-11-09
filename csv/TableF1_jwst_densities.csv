@@ -1,0 +1,16 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com,,
+# Updated,10/2026,,,,
+#Name,Table F1: JWST UV luminosity and SFR densities (M_UV < -17) and the models,,,,
+#Ref. [1] This paper,"Z. Xu, Cosmic star-formation decline, the first galaxies and early black holes from the energy cascade of dark matter and gas",,,
+#Ref. [2] Donnan et al. (2024),"MNRAS 533, 3222",D24,,,
+#Ref. [3] McLeod et al. (2026),arXiv:2604.16666,M26,,,
+,,,,,
+,,,,,
+z,ref,log rho_UV,log rho_SFR obs,no boost,onset
+9,D24,25.29,-2.64930216,-2.80237076,-2.67058753
+10,D24,25.12,-2.81930216,-3.17182389,-2.74798018
+11,D24,25.12,-2.81930216,-3.55746606,-2.81396117
+12.5,D24,24.64,-3.29930216,-4.19370423,-3.23208158
+13.5,M26,24.41,-3.52930216,-4.61915845,-3.59009891
+14.5,D24,23.92,-4.01930216,-5.05653571,-3.96727343
+15.8,M26,23.22,-4.71930216,-5.71671994,-4.53145837

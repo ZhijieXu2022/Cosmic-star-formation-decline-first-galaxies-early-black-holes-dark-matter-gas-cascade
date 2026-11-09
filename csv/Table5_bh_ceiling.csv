@@ -1,0 +1,12 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com
+# Updated,10/2026,
+#Name,Table 5: ceiling (x_r = 15) for single objects,
+#Ref. [1] This paper,"Z. Xu, Cosmic star-formation decline, the first galaxies and early black holes from the energy cascade of dark matter and gas"
+,,
+,,
+object,ceiling L_X/L_Edd,"ceiling (upper, ranges)"
+LID-568$^a$,45.0449905,NaN
+BH$^*$ stack$^b$,106.63342,676.010327
+CEERS-1019$^c$,162.500815,NaN
+UHZ1$^d$,157.701772,NaN
+GN-z11$^e$,329.644104,NaN

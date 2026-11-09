@@ -1,0 +1,22 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com
+# Updated,10/2026
+#Name,"Section 4: profile of the gate parameter (gate_mhs), Delta chi2 against q"
+#Ref. [1] This paper,"Z. Xu, Cosmic star-formation decline, the first galaxies and early black holes from the energy cascade of dark matter and gas"
+,
+,
+q,Delta chi2
+0.001,9.03754175e-06
+0.00177827941,2.88611817e-05
+0.00316227766,8.77790716e-05
+0.00562341325,0.000268916738
+0.01,0.000850604739
+0.0177827941,0.00266772723
+0.0316227766,0.00861764291
+0.0562341325,0.0281849377
+0.1,0.0940653169
+0.177827941,0.311267535
+0.316227766,0.764733968
+0.562341325,4.30835646
+1,11.8686567
+1.77827941,24.2414765
+3.16227766,33.0139788

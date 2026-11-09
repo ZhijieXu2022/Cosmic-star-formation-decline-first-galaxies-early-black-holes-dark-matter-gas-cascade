@@ -1,0 +1,14 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com
+# Updated,10/2026,
+#Name,Section 4: efficiency required by abundance matching at z = 9,
+#Ref. [1] This paper,"Z. Xu, Cosmic star-formation decline, the first galaxies and early black holes from the energy cascade of dark matter and gas"
+,,
+,,
+M_UV (bin edge),m_h [Msun],f_* required
+-20.5,1.68883587e+11,0.0398833098
+-20,1.07101549e+11,0.0415300115
+-19.5,6.09599655e+10,0.0487066428
+-18.9,4.13334314e+10,0.0429739994
+-18.3,2.86929132e+10,0.036947518
+-17.8,2.03209325e+10,0.0340721378
+-17.3,1.50277453e+10,0.0299608529

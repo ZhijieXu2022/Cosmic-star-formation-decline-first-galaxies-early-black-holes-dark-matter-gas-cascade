@@ -1,0 +1,13 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com,
+# Updated,10/2026,,,
+#Name,"Fig. 8c: UNCOVER little red dots, M_BH/(M_BH + M_host) and the core track",,,
+#Ref. [1] This paper,"Z. Xu, Cosmic star-formation decline, the first galaxies and early black holes from the energy cascade of dark matter and gas",,
+,,,,
+,,,,
+name,z,B,B_over_core,host_limit
+UNCOVER-4286,5.84,0.270890037,0.860879908,1
+UNCOVER-13821,6.34,0.04182582,0.111427941,1
+UNCOVER-20466,8.5,0.57989976,0.810650602,1
+UNCOVER-38108,4.96,0.35464755,1.59027088,0
+UNCOVER-41225,6.76,0.0163249425,0.0378431387,1
+UNCOVER-45924,4.46,0.166337531,0.928535339,1
